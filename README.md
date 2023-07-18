@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @seasonedtalent
 - 👀 I’m interested in data science and programming
 - 🌱 I’m currently learning data science, programming and electrical engineering
-- 💞️ I’m looking to collaborate on app development, web development etc
-- 📫 How to reach me nandakishore_b200233ee@nitc.ac.in
+- 💞️ I’m looking to collaborate on app development, web development and core fields in electrical engineering etc
+- 📫 How to reach me nandakishore_b200233ee@nitc.ac.in, +91-9188603301
 
 
 <!---
